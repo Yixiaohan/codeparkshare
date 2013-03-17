@@ -3,7 +3,7 @@ codeparkshare
 codeParkShare 编程公园
   介绍:编程公园是由 @limodou 和 @hejiasheng 共同发起的一项公益免费活动，更多介绍点击 http://uliweb.clkg.org/forum/6
   活动关键字：Python、Uliweb、Ubuntu、 Github分享、结对编程、结交朋友等等。
-    第一期活动分享之Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐。
+  第一期活动分享之Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐。
 
 --------------------------
 ##第一期活动分享--Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐。
@@ -20,7 +20,7 @@ codeParkShare 编程公园
 --------------------------
 #三、书籍推荐：
 
-0、Python官方文档 点击打开链接    英语不好的，暂时就先别看了，以后一定要加强英语学习。
+0、Python官方文档 点击打开链接    英语不好的，暂时就先别看了，以后一定要加强英语学习哦;)。
 
 1、对于零基础者，我个人推荐《How to think like a computer scientist》点击打开链接，对应中文版本《Python学习笔记》，非常适合零基础入门。另外，我认为自学前期有个师傅带一下，入门后，学习速度就快了。 
 
