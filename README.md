@@ -6,10 +6,10 @@ codeParkShare 编程公园--第一期活动分享
 
   活动关键字：分享、学习、结对编程、Python、Uliweb、Ubuntu、Github、结交朋友等等。  
   
-  第一期活动视频：[点击](http://js.tudouui.com/bin/player2/olc_8.swf?iid=164800044&swfPath=http://js.tudouui.com/bin/lingtong/SocialPlayer_23.swf&cdnType=1&tvcCode=-1&tag=uliweb%2Ccoding&title=codepark-day1-01&mediaType=vi&totalTime=1242870&hdType=1&hasPassword=0&nWidth=-1&isOriginal=0&channelId=99&nHeight=-1&banPublic=false&videoOwner=22909963&tict=3&channelId=99&cs=&k=uliweb|coding&panelRecm=http://css.tudouui.com/bin/lingtong/PanelRecm_5.swz&panelEnd=http://css.tudouui.com/bin/lingtong/PanelEnd_5.swz&pepper=http://css.tudouui.com/bin/binder/pepper_2.png&panelShare=http://css.tudouui.com/bin/lingtong/PanelShare_4.swz&panelCloud=http://css.tudouui.com/bin/lingtong/PanelCloud_1.swz&autoPlay=true&listType=0&rurl=&resourceId=22909963_04_02_99&autostart=false&snap_pic=http%3A%2F%2Fi1.tdimg.com%2F164%2F800%2F044%2Fw.jpg&code=MsZYfchhWyw&aopRate=0.001&p2pRate=0&adSourceId=81000&juid=016o66cbcu1jr6&yjuid=1344645077561B5l&yseid=1362233189341QxAkoH&yseidtimeout=1362241896679&yseidcount=8)    
+  第一期活动视频：[点击观看](http://js.tudouui.com/bin/player2/olc_8.swf?iid=164800044&swfPath=http://js.tudouui.com/bin/lingtong/SocialPlayer_23.swf&cdnType=1&tvcCode=-1&tag=uliweb%2Ccoding&title=codepark-day1-01&mediaType=vi&totalTime=1242870&hdType=1&hasPassword=0&nWidth=-1&isOriginal=0&channelId=99&nHeight=-1&banPublic=false&videoOwner=22909963&tict=3&channelId=99&cs=&k=uliweb|coding&panelRecm=http://css.tudouui.com/bin/lingtong/PanelRecm_5.swz&panelEnd=http://css.tudouui.com/bin/lingtong/PanelEnd_5.swz&pepper=http://css.tudouui.com/bin/binder/pepper_2.png&panelShare=http://css.tudouui.com/bin/lingtong/PanelShare_4.swz&panelCloud=http://css.tudouui.com/bin/lingtong/PanelCloud_1.swz&autoPlay=true&listType=0&rurl=&resourceId=22909963_04_02_99&autostart=false&snap_pic=http%3A%2F%2Fi1.tdimg.com%2F164%2F800%2F044%2Fw.jpg&code=MsZYfchhWyw&aopRate=0.001&p2pRate=0&adSourceId=81000&juid=016o66cbcu1jr6&yjuid=1344645077561B5l&yseid=1362233189341QxAkoH&yseidtimeout=1362241896679&yseidcount=8)    
   视频制作者：[@limodou](http://weibo.com/u/1689940061)
   
-  第一期活动GitHub项目仓库：[点击](https://github.com/limodou/codepark)
+  第一期活动GitHub项目仓库：[点击查看](https://github.com/limodou/codepark)
   
   **第二期活动报名地址（公益免费）**：[点击](http://uliweb.clkg.org/forum/6/226) **时间：2013年3月24日**。场地由[@hejiasheng](http://weibo.com/linuxcelebrate)免费提供。
 
@@ -119,11 +119,11 @@ codeParkShare 编程公园--第一期活动分享
 
 
 ### *芝麻问答*：如何学习Python [点击打开链接](http://www.zhimaq.com/questions/70/python)作者：@halida
-#### 如何学习pythoh
+#### 如何学习python
 
 我们假设你是一个初级程序员, 只懂得一点点的基础知识, 希望能够用python来做开发. 这篇文档就是为了满足以上目标而写的.
 
-**大纲**
+**大纲** 
 
 按照这篇文档所指示的任务过一遍, 你就能够做到:
 
