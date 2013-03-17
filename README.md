@@ -1,6 +1,6 @@
 codeparkshare
 =============
-codeParkShare 编程公园  
+codeParkShare 编程公园--第一期活动分享  
 
   介绍:编程公园是由 [@limodou](http://weibo.com/u/1689940061) 和 [@hejiasheng](http://weibo.com/linuxcelebrate) 共同发起的一项公益免费活动，更多介绍[点击](http://uliweb.clkg.org/forum/6)  
 
@@ -11,7 +11,7 @@ codeParkShare 编程公园
   
   第一期活动GitHub项目仓库：[点击](https://github.com/limodou/codepark)
   
-  **第二期活动报名地址**：[点击](http://uliweb.clkg.org/forum/6/226) **时间：2013年3月24日**。场地由[@hejiasheng](http://weibo.com/linuxcelebrate)免费提供。
+  **第二期活动报名地址（公益免费）**：[点击](http://uliweb.clkg.org/forum/6/226) **时间：2013年3月24日**。场地由[@hejiasheng](http://weibo.com/linuxcelebrate)免费提供。
 
 
 
