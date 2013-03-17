@@ -7,18 +7,18 @@ codeParkShare 编程公园--第一期活动分享
   活动关键字：分享、学习、结对编程、Python、Uliweb、Ubuntu、Github、结交朋友等等。  
   
   第一期活动视频：[点击观看](http://js.tudouui.com/bin/player2/olc_8.swf?iid=164800044&swfPath=http://js.tudouui.com/bin/lingtong/SocialPlayer_23.swf&cdnType=1&tvcCode=-1&tag=uliweb%2Ccoding&title=codepark-day1-01&mediaType=vi&totalTime=1242870&hdType=1&hasPassword=0&nWidth=-1&isOriginal=0&channelId=99&nHeight=-1&banPublic=false&videoOwner=22909963&tict=3&channelId=99&cs=&k=uliweb|coding&panelRecm=http://css.tudouui.com/bin/lingtong/PanelRecm_5.swz&panelEnd=http://css.tudouui.com/bin/lingtong/PanelEnd_5.swz&pepper=http://css.tudouui.com/bin/binder/pepper_2.png&panelShare=http://css.tudouui.com/bin/lingtong/PanelShare_4.swz&panelCloud=http://css.tudouui.com/bin/lingtong/PanelCloud_1.swz&autoPlay=true&listType=0&rurl=&resourceId=22909963_04_02_99&autostart=false&snap_pic=http%3A%2F%2Fi1.tdimg.com%2F164%2F800%2F044%2Fw.jpg&code=MsZYfchhWyw&aopRate=0.001&p2pRate=0&adSourceId=81000&juid=016o66cbcu1jr6&yjuid=1344645077561B5l&yseid=1362233189341QxAkoH&yseidtimeout=1362241896679&yseidcount=8)    
-  视频制作者：[@limodou](http://weibo.com/u/1689940061)
+  视频制作者：[@limodou](http://weibo.com/u/1689940061)  鸣谢！
   
   第一期活动GitHub项目仓库：[点击查看](https://github.com/limodou/codepark)
   
-  **第二期活动报名地址（公益免费）**：[点击](http://uliweb.clkg.org/forum/6/226) **时间：2013年3月24日**。场地由[@hejiasheng](http://weibo.com/linuxcelebrate)免费提供。
+  **第二期活动报名地址（公益免费）**：[点击](http://uliweb.clkg.org/forum/6/226) **时间：2013年3月24日**。场地由[@hejiasheng](http://weibo.com/linuxcelebrate)免费提供。鸣谢！
 
 
 
 
   第一期活动分享之 *Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐*  
 ------------------------
-本文 **主要** 针对 **零基础** 想学习Python者。本文本文由@史江歌（shijiangge@gmail.com）根据互联网资料收集整理而成。会不断更新。
+本文 **主要** 针对 **零基础** 想学习Python者。本文本文由@史江歌（shijiangge@gmail.com）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！本文会不断更新。
 
 一、学会使用搜索引擎，尤其是Google。推荐阅读文章：
 --------------------------
