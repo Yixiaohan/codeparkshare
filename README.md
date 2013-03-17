@@ -1,6 +1,6 @@
-codeparkshare
+PythonShare
 =============
-codeParkShare 编程公园--第一期活动分享  
+先推广一个北京Pythoner的活动---codePark 编程公园，然后分享一些零基础学习Python、Python入门的资料。
 
   介绍:编程公园是由 [@limodou](http://weibo.com/u/1689940061) 和 [@hejiasheng](http://weibo.com/linuxcelebrate) 共同发起的一项公益免费活动，更多介绍及参与方法[点击](http://uliweb.clkg.org/forum/6)  
 
@@ -17,7 +17,7 @@ codeParkShare 编程公园--第一期活动分享
 
 
 
-  第二期活动欲分享之 *Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐*  
+   *Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐*  
 ------------------------
 本文 **主要** 针对 **零基础** 想学习Python者。本文本文由@史江歌（shijiangge@gmail.com）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！本文会不断更新。
 
