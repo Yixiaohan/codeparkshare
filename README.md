@@ -154,7 +154,7 @@ A: google: python 写网站, 或者 google: python web development.
 
 
 
-### 知乎问答：你是如何自学 Python 的？点击打开链接  作者:@成增存
+### 知乎问答：你是如何自学 Python 的？[点击打开链接](http://www.zhihu.com/question/20702054)  作者:@成增存
 
 **阶段一**：前辈领进门。
 第一眼是一个前辈给我看了看Python的代码，因为自己最早学习的是Java语言，第一眼看到Python的时候，前辈说，“Python是面向对象的”，然后就 打印了几句代码。可我怎么也看不出到底哪里是“面向对象”的。前辈说“在Python里，一切皆对象”，我才有点领悟的说道：“原来把什么看成对象，就是面向对象”，哈哈。
@@ -171,11 +171,11 @@ A: google: python 写网站, 或者 google: python web development.
 **阶段五**：更合理的分配好C，Java，Python三门语言各自擅长的部分。
 把合适的语言用到合适的地方。尽管一门语言有时候可以搞定所有的，但用擅长的语言解决合适的问题才是效率最高的。这也是“Python的大道至简”的理念带给我的帮助和认识。
  
-PS：其中过程中主要的一些**方法**：
-1、看书。学习的基础。＜/br＞
-2、自己本地练习。编程还是要实践出真知。</br>
-3、资料查询。google，stackoverflow等多关注。</br>
-4、交流。各种论坛上的python group，论坛。最早去的CU，JavaEye，不过现在貌似去的少了。google group 必须订阅。</br>
+PS：其中过程中主要的一些 **方法** ：
+1. 看书。学习的基础。＜/br＞
+2. 自己本地练习。编程还是要实践出真知。</br>
+3. 资料查询。google，stackoverflow等多关注。</br>
+4. 交流。各种论坛上的python group，论坛。最早去的CU，JavaEye，不过现在貌似去的少了。google group 必须订阅。</br>
 学习+实践+总结，掌握语言的法宝。
 
 六、Just Do It
