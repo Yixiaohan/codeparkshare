@@ -6,11 +6,11 @@ codeParkShare 编程公园
   活动关键字：分享、学习、结对编程、Python、Uliweb、Ubuntu、Github、结交朋友等等。  
   
   第一期活动视频：[点击](http://js.tudouui.com/bin/player2/olc_8.swf?iid=164800044&swfPath=http://js.tudouui.com/bin/lingtong/SocialPlayer_23.swf&cdnType=1&tvcCode=-1&tag=uliweb%2Ccoding&title=codepark-day1-01&mediaType=vi&totalTime=1242870&hdType=1&hasPassword=0&nWidth=-1&isOriginal=0&channelId=99&nHeight=-1&banPublic=false&videoOwner=22909963&tict=3&channelId=99&cs=&k=uliweb|coding&panelRecm=http://css.tudouui.com/bin/lingtong/PanelRecm_5.swz&panelEnd=http://css.tudouui.com/bin/lingtong/PanelEnd_5.swz&pepper=http://css.tudouui.com/bin/binder/pepper_2.png&panelShare=http://css.tudouui.com/bin/lingtong/PanelShare_4.swz&panelCloud=http://css.tudouui.com/bin/lingtong/PanelCloud_1.swz&autoPlay=true&listType=0&rurl=&resourceId=22909963_04_02_99&autostart=false&snap_pic=http%3A%2F%2Fi1.tdimg.com%2F164%2F800%2F044%2Fw.jpg&code=MsZYfchhWyw&aopRate=0.001&p2pRate=0&adSourceId=81000&juid=016o66cbcu1jr6&yjuid=1344645077561B5l&yseid=1362233189341QxAkoH&yseidtimeout=1362241896679&yseidcount=8)
-  视频制作者：@limodou
+  视频制作者：[@limodou](http://weibo.com/u/1689940061)
   
   第一期活动项目仓库：[点击](https://github.com/limodou/codepark)
   
-  第二期活动报名地址：[点击](http://uliweb.clkg.org/forum/6/226) 时间：2013年3月24日。场地由[@hejiasheng](http://weibo.com/linuxcelebrate)免费提供。
+  **第二期活动报名地址**：[点击](http://uliweb.clkg.org/forum/6/226) **时间：2013年3月24日**。场地由[@hejiasheng](http://weibo.com/linuxcelebrate)免费提供。
 
 
 
@@ -34,7 +34,7 @@ codeParkShare 编程公园
 
 三、书籍推荐：
 --------------------------
-0. Python官方文档 [点击打开链接](http://docs.python.org/2/tutorial/index.html)    英语不好的，暂时就先别看了，以后一定要加强英语学习哦;)。
+0. Python官方文档 [点击打开链接](http://docs.python.org/2/tutorial/index.html) 英语不好的，暂时就先别看了，以后一定要加强英语学习哦;)。
 
 1. 对于零基础者，推荐《How to think like a computer scientist》[点击打开链接](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf)，对应中文版本《Python学习笔记》，非常适合零基础入门。另外，我认为自学前期有个师傅带一下，入门后，学习速度就快了。 
 
@@ -42,13 +42,13 @@ codeParkShare 编程公园
 
 3. 对于零基础者，推荐《简明Python教程》[点击打开链接](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 
-4. 对于零基础者，推荐《笨办法学 Python （Learn Python The Hard Way）》点击打开链接
+4. 对于零基础者，推荐《笨办法学 Python （Learn Python The Hard Way）》[点击打开链接](http://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
 
-5. 对于有其他编程语言基础者，推荐《Python基础教程》点击打开链接
+5. 对于有其他编程语言基础者，推荐《Python基础教程》[点击打开链接](http://book.douban.com/subject/4866934/)
 
-6. 更多书籍推荐，知乎问答：关于 Python 的经典入门书籍有哪些？点击打开链接 。
+6. 更多书籍推荐，**知乎问答**：关于 Python 的经典入门书籍有哪些？[点击打开链接](http://www.zhihu.com/question/19593179)
 
-7. 更多书籍推荐， V2EX问答：文科生想学Python [点击打开链接](http://www.v2ex.com)
+7. 更多书籍推荐， **V2EX问答**：文科生想学Python [点击打开链接](http://www.v2ex.com)
 
 
 四、视频推荐：
@@ -61,7 +61,7 @@ codeParkShare 编程公园
 
 五、学习方法
 ---------------------------------------
-### *知乎问答*：零基础，应当如何开始学习 Python ？点击打开链接
+### *知乎问答*：零基础，应当如何开始学习 Python ？[点击打开链接](http://www.zhihu.com/question/20039623?nr=1)--by@黎敏
 
 虽然我不是Python高手，但我是零基础，之前会的都是软件PS，PPT之类。
 
@@ -72,11 +72,13 @@ codeParkShare 编程公园
 1. 找到合适的入门书籍，大致读一次，循环啊判断啊，常用类啊，搞懂（太难的跳过）
 
 2. 做些简单习题，字符串比较，读取日期之类
- Python Cookbook不错（太难太无趣的，再次跳过，保持兴趣是最重要的，不会的以后可以再学）
+   《Python Cookbook》不错（太难太无趣的，再次跳过，保持兴趣是最重要的，不会的以后可以再学）
 
-3. 加入Python讨论群，态度友好笑眯眯（很重要，这样高手才会耐心纠正你错误常识）。很多小问题，纠结许久，对方一句话点播思路，真的节约你很多时间。耐心指教我的好人，超级超级多谢。
+3. 加入Python讨论群，态度友好笑眯眯（很重要，这样高手才会耐心纠正你错误常识）。
+      很多小问题，纠结许久，对方一句话点播思路，真的节约你很多时间。耐心指教我的好人，超级超级多谢。
 
-4. 解决自己电脑问题。比如下载美剧，零散下载了2，4，5，8集，而美剧共12集，怎样找出漏下的那几集？然后问题分解，1读取全部下载文件名，2提取集的数字，3数字排序和（1--12）对比，找出漏下的。
+4. 解决自己电脑问题。
+      比如下载美剧，零散下载了2，4，5，8集，而美剧共12集，怎样找出漏下的那几集？然后问题分解，1读取全部下载文件名，2提取集的数字，3数字排序和（1--12）对比，找出漏下的。
 
 5. 时刻记住目的，不是为了当程序员，是为了解决问题。
 
@@ -96,31 +98,30 @@ codeParkShare 编程公园
 
   然后，<http://stackoverflow.com> 和 <http://Google.com> 是很好用的。
 
-  然后，坚持下去～
+  然后，坚持下去。
 
 
+  一定要保持兴趣，太复杂的跳过，就像小学数学，小学英语，都是由简入深。
 
-一定要保持兴趣，太复杂的跳过，就像小学数学，小学英语，都是由简入深。
+  网络很平面，无数国际大牛著作好书，关于Python，算法，电脑，网络，或者程序员思路，或者商业思维（浪潮之巅是本好书）等等，还有国际名校的网络公开课（中英文字幕翻译完毕，观看不是难事），讲计算机，网络，安全，或者安卓系统，什么都有，只要能持续保持兴趣，一点点学习下去，不是难事。
 
-网络很平面，无数国际大牛著作好书，关于Python，算法，电脑，网络，或者程序员思路，或者商业思维（浪潮之巅是本好书）等等，还有国际名校的网络公开课（中英文字幕翻译完毕，观看不是难事），讲计算机，网络，安全，或者安卓系统，什么都有，只要能持续保持兴趣，一点点学习下去，不是难事。
+  所有天才程序员，都曾是儿童，回到儿童思维来理解和学习。觉得什么有趣，先学，不懂的，先放着，遇到问题再来学，效果更好。
 
-所有天才程序员，都曾是儿童，回到儿童思维来理解和学习。觉得什么有趣，先学，不懂的，先放着，遇到问题再来学，效果更好。
+  唯一建议是，不要太贪心，耐心学好一门优雅的语言，再学其它。虽然Javascript做特效很炫，或提某问题时，有大牛建议，用Ruby来写更好之类，不要改方向。就像老笑话：“要学习递归，必须首先理解递归。”然后死循环一直下去。坚持学好一门语言，再研究其他。
 
-唯一建议是，不要太贪心，耐心学好一门优雅的语言，再学其它。虽然Javascript做特效很炫，或提某问题时，有大牛建议，用Ruby来写更好之类，不要改方向。就像老笑话：“要学习递归，必须首先理解递归。”然后死循环一直下去。坚持学好一门语言，再研究其他。
+  即使一门语言，跟网络，数据库等等相关的部分，若都能学好，再学其他语言，是很快的事情。
 
-即使一门语言，跟网络，数据库等等相关的部分，若都能学好，再学其他语言，是很快的事情。
+  另外就是，用学英文的耐心来学计算机，英文遇到不懂的词，抄下，查询。
 
-另外就是，用学英文的耐心来学计算机，英文遇到不懂的词，抄下，查询。
-
-python里，看到Http，查查定义，看到outHtml，查查定义，跟初学英语时候一样，不要直接猜意思，因为精确描述性定义，跟含糊自然语有区别的。而新人瞎猜，很容易错误理解，wiki，google很有用。
+  python里，看到Http，查查定义，看到outHtml，查查定义，跟初学英语时候一样，不要直接猜意思，因为精确描述性定义，跟含糊自然语有区别的。而新人瞎猜，很容易错误理解，wiki，google很有用。
 
 
-### *芝麻问答*：如何学习Python 作者：@halida
-#### 如何学习pytho 
+### *芝麻问答*：如何学习Python [点击打开链接](http://www.zhimaq.com/questions/70/python)作者：@halida
+#### 如何学习pythoh
 
 我们假设你是一个初级程序员, 只懂得一点点的基础知识, 希望能够用python来做开发. 这篇文档就是为了满足以上目标而写的.
 
-**大纲*
+**大纲**
 
 按照这篇文档所指示的任务过一遍, 你就能够做到:
 
@@ -140,9 +141,9 @@ python里，看到Http，查查定义，看到outHtml，查查定义，跟初学
 
 我建议你学习的过程也按照上面来, 首先过一遍python官方文档:
 
-http://docs.python.org/tutorial/index.html
+<http://docs.python.org/tutorial/index.html>
 
-然后做 http://www.pythonchallenge.com/ 这个网站上面的题目.
+然后做 <http://www.pythonchallenge.com/> 这个网站上面的题目.
 
 如果卡在某一关太久, 可以看答案(google python challenge answer), 做完后看看别人的编码方式和自己有什么区别.
 
@@ -150,19 +151,19 @@ http://docs.python.org/tutorial/index.html
 
 做完一遍后, 你会发现已经熟悉了基本的python开发. 然后做点小项目吧. 这里是一些题目, 挑感兴趣的去做.
 
-写一个简单的计算器/记账软件/扫雷游戏(用pyqt库做界面)
-写一个聊天室网站(用webpy框架, jquery刷新新的回复)
-写一个爬虫, 获取douban上面所有用户的地点, 画地点分布的直方图(用lxml解析, 保存数据到sqlite里面去, 用matplotlib画图)
+* 写一个简单的计算器/记账软件/扫雷游戏(用pyqt库做界面)
+* 写一个聊天室网站(用webpy框架, jquery刷新新的回复)
+* 写一个爬虫, 获取douban上面所有用户的地点, 画地点分布的直方图(用lxml解析, 保存数据到sqlite里面去, 用matplotlib画图)
 
 **FAQ**
 
 Q: 遇到了问题, 到哪里求助?
 
-A: 上 http://groups.google.com/group/python-cn (需要翻墙) 或者 http://stackoverflow.com 提问就可以了.
+A: 上 <http://groups.google.com/group/python-cn> (需要翻墙) 或者 <http://stackoverflow.com> 提问就可以了.
 
 Q: 如何查找python的某个功能?
 
-A: 看官方文档. http://docs.python.org/library/index.html
+A: 看官方文档. <http://docs.python.org/library/index.html>
 
 Q: 如何用python完成一个任务(比如写网站)?
 
@@ -187,14 +188,15 @@ A: google: python 写网站, 或者 google: python web development.
 **阶段五**：更合理的分配好C，Java，Python三门语言各自擅长的部分。
 把合适的语言用到合适的地方。尽管一门语言有时候可以搞定所有的，但用擅长的语言解决合适的问题才是效率最高的。这也是“Python的大道至简”的理念带给我的帮助和认识。
  
-PS：其中过程中主要的一些 **方法** :
+PS：其中过程中主要的一些 **方法** :  
+
 1. 看书。学习的基础。
 
 2. 自己本地练习。编程还是要实践出真知。</br>  
 
 3. 资料查询。google，stackoverflow等多关注。</br>  
 
-4. 交流。各种论坛上的python group，论坛。最早去的CU，JavaEye，不过现在貌似去的少了。google group 必须订阅。</br>  
+4. 交流。各种论坛上的python group，论坛。最早去的CU，JavaEye，不过现在貌似去的少了。**google group** 必须订阅。</br>  
 
    学习+实践+总结，掌握语言的法宝。
 
@@ -204,7 +206,7 @@ PS：其中过程中主要的一些 **方法** :
 
 看了这么多资料了，还没动手敲代码？
  
-好吧，最好一篇文章《我在学习编程中犯的两个 **最大错误** 》点击打开链接
+好吧，最好一篇文章《我在学习编程中犯的两个 **最大错误** 》[点击打开链接](http://blog.jobbole.com/26552/)
 
 Just do it 。动手敲代码吧。
 
