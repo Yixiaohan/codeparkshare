@@ -173,7 +173,7 @@ PS：其中过程中主要的一些方法：
 4、交流。各种论坛上的python group，论坛。最早去的CU，JavaEye，不过现在貌似去的少了。google group 必须订阅。
 学习+实践+总结，掌握语言的法宝。
 
-六、Just Do It
+#六、Just Do It
 
 看了这么多资料了，还没动手敲代码？
 
@@ -181,3 +181,4 @@ PS：其中过程中主要的一些方法：
 
 Just do it 。动手敲代码吧。
 
+注：本文由@史江歌（shijiangge@gmail.com）根据互联网资料收集整理而成。
