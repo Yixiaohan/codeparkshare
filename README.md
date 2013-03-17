@@ -42,7 +42,7 @@ codeParkShare 编程公园--第一期活动分享
 
 2. 对于零基础者，推荐《Python编程实践》 [点击打开链接] (http://book.douban.com/subject/7059900/)
 
-3. 对于零基础者，推荐《简明Python教程》[点击打开链接](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
+3. 对于零基础者，推荐《简明Python教程》 [点击打开链接](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 
 4. 对于零基础者，推荐《笨办法学 Python （Learn Python The Hard Way）》[点击打开链接](http://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
 
