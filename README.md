@@ -1,17 +1,20 @@
 codeparkshare
 =============
 codeParkShare 编程公园
-  介绍:编程公园是由 @limodou 和 @hejiasheng 共同发起的一项公益免费活动，更多介[点击](http://uliweb.clkg.org/forum/6) </br>
-  活动关键字：Python、Uliweb、Ubuntu、 Github分享、结对编程、结交朋友等等。</br>
-  第一期活动分享之Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐。</br>
-  [文字](http://ace.ajax.org/)  
+  介绍:编程公园是由 @limodou 和 @hejiasheng 共同发起的一项公益免费活动，更多介绍[点击](http://uliweb.clkg.org/forum/6)  
+  </br>
+  活动关键字：Python、Uliweb、Ubuntu、 Github分享、结对编程、结交朋友等等。  
+  </br>
+  第一期活动分享之Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐。  
+  </br>
 
 
-本文主要针对零基础想学习Python者。本文会不断更新。
+本文**主要**针对零基础想学习Python者。本文会不断更新。
 
 一、学会使用搜索引擎，尤其是Google。推荐阅读文章：
 --------------------------
-  《如何用好Google》by-李笑来 </br>
+  《如何用好Google》by-李笑来 </br>  
+  
   [《十大高明的Google搜索技巧》](http://www.williamlong.info/archives/728.html)by-雪影蓝风
               
 
@@ -41,7 +44,9 @@ codeParkShare 编程公园
 
 四、视频推荐：
 ------------------------------------------
-麻省理工公开课《计算机科学及编程导论》，该课程针对零基础者 点击打开链接  网易公开课。
+麻省理工公开课《计算机科学及编程导论》，该课程针对零基础者 [点击打开链接](http://v.163.com/special/opencourse/bianchengdaolun.html)  网易公开课。
+课程介绍
+这门课程适用于那些拥有**很少或没有**编程经验的学生,它致力于使学生理解计算机在解决问题中的作用,并且帮助学生，不论其专业，使他们对于能够完成有用的小程序的目标充满信心。
 
 
 五、学习方法
