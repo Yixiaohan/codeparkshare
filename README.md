@@ -22,11 +22,11 @@ codeParkShare 编程公园
 
 一、学会使用搜索引擎，尤其是Google。推荐阅读文章：
 --------------------------
-  《如何用好Google搜索引擎？》[](http://www.zhihu.com/question/20161362) --知乎问答  
+  [《如何用好Google搜索引擎？》](http://www.zhihu.com/question/20161362) --知乎问答@崔凯  
   
   [《十大高明的Google搜索技巧》](http://www.williamlong.info/archives/728.html)by-雪影蓝风  
   
-  《如何用好Google》by-李笑来 </br>    
+  《如何用好Google》by-李笑来    
   
 
 二、学会提问
@@ -36,9 +36,9 @@ codeParkShare 编程公园
 
 三、书籍推荐：
 --------------------------
-0. Python官方文档 [点击打开链接](http://docs.python.org/2/tutorial/index.html) 英语不好的，暂时就先别看了，以后一定要加强英语学习哦;)。
+0. Python官方文档 [点击打开链接](http://docs.python.org/2/tutorial/index.html) 英语不好的，暂时就先别看了，以后一定肯定要加强英语学习哦;)。
 
-1. 对于零基础者，推荐《How to think like a computer scientist》[点击打开链接](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf)，对应中文版本《Python学习笔记》，非常适合零基础入门。另外，我认为自学前期有个师傅带一下，入门后，学习速度就快了。 
+1. 对于零基础者，推荐《How to think like a computer scientist》[点击打开链接](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf)，对应中文版本《Python学习笔记--皮大庆》，非常适合零基础入门。
 
 2. 对于零基础者，推荐《Python编程实践》 [点击打开链接] (http://book.douban.com/subject/7059900/)
 
