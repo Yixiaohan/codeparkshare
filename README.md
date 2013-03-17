@@ -1,9 +1,9 @@
 codeparkshare
 =============
 codeParkShare 编程公园
-  介绍:编程公园是由 @limodou 和 @hejiasheng 共同发起的一项公益免费活动，更多介绍点击 http://uliweb.clkg.org/forum/6 </br>
-  活动关键字：Python、Uliweb、Ubuntu、 Github分享、结对编程、结交朋友等等。</br>
-  第一期活动分享之Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐。</br>
+  介绍:编程公园是由 @limodou 和 @hejiasheng 共同发起的一项公益免费活动，更多介绍点击 http://uliweb.clkg.org/forum/6 \<br /\> 
+  活动关键字：Python、Uliweb、Ubuntu、 Github分享、结对编程、结交朋友等等。\<br /\> 
+  第一期活动分享之Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐。\<br /\> 
   [文字](http://ace.ajax.org/)  
 
 --------------------------
@@ -97,7 +97,8 @@ codeParkShare 编程公园
 另外就是，用学英文的耐心来学计算机，英文遇到不懂的词，抄下，查询。
 
 python里，看到Http，查查定义，看到outHtml，查查定义，跟初学英语时候一样，不要直接猜意思，因为精确描述性定义，跟含糊自然语有区别的。而新人瞎猜，很容易错误理解，wiki，google很有用。
--------------------------------------------------
+
+
 ###芝麻问答：如何学习Python 作者：@halida
 如何学习python
 
