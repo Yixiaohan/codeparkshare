@@ -1,6 +1,7 @@
 codeparkshare
 =============
-codeParkShare 编程公园
+codeParkShare 编程公园  
+
   介绍:编程公园是由 [@limodou](http://weibo.com/u/1689940061) 和 [@hejiasheng](http://weibo.com/linuxcelebrate) 共同发起的一项公益免费活动，更多介绍[点击](http://uliweb.clkg.org/forum/6)  
 
   活动关键字：分享、学习、结对编程、Python、Uliweb、Ubuntu、Github、结交朋友等等。  
