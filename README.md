@@ -1,9 +1,9 @@
 codeparkshare
 =============
 codeParkShare 编程公园
-  介绍:编程公园是由 @limodou 和 @hejiasheng 共同发起的一项公益免费活动，更多介绍点击 http://uliweb.clkg.org/forum/6 \<br /\> 
-  活动关键字：Python、Uliweb、Ubuntu、 Github分享、结对编程、结交朋友等等。\<br /\> 
-  第一期活动分享之Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐。\<br /\> 
+  介绍:编程公园是由 @limodou 和 @hejiasheng 共同发起的一项公益免费活动，更多介绍点击 http://uliweb.clkg.org/forum/6 ＜/br＞
+  活动关键字：Python、Uliweb、Ubuntu、 Github分享、结对编程、结交朋友等等。＜/br＞
+  第一期活动分享之Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐。＜/br＞
   [文字](http://ace.ajax.org/)  
 
 --------------------------
