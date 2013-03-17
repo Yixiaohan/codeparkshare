@@ -11,7 +11,8 @@ codeParkShare 编程公园--第一期活动分享
   
   第一期活动GitHub项目仓库：[点击查看](https://github.com/limodou/codepark)
   
-  **第二期活动报名地址（公益免费）**：[点击](http://uliweb.clkg.org/forum/6/226)    **时间：2013年3月24日**。场地由[@hejiasheng](http://weibo.com/linuxcelebrate)免费提供。鸣谢！
+  **第二期活动报名地址（公益免费）**：[报名点击](http://uliweb.clkg.org/forum/6/226)    
+  **时间：2013年3月24日**。场地由[@hejiasheng](http://weibo.com/linuxcelebrate)免费提供。鸣谢！
 
 
 
