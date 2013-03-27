@@ -214,3 +214,7 @@ PS：其中过程中主要的一些 **方法** :
 Just do it 。动手敲代码吧。
 
 注：本文由@史江歌（shijiangge@gmail.com）根据互联网资料收集整理而成。
+
+七、更新
+--------------------------------------
+Python技术博客、招聘、开源软件、Python中文网站导航 [点击打开链接](http://simple-is-better.com/sites/)
