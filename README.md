@@ -218,3 +218,11 @@ Just do it 。动手敲代码吧。
 七、更新
 --------------------------------------
 Python技术博客、招聘、开源软件、Python中文网站导航 [点击打开链接](http://simple-is-better.com/sites/)
+
+遇到python问题怎么样解决？python help dir stackoverflow docs google [点击打开链接](http://blog.csdn.net/xiaowanggedege/article/details/8753013)
+
+在线视频教学(英文) [点击打开codecademy](http://www.codecademy.com/zh/tracks/python)
+
+英文[pythonforbeginners](http://www.pythonforbeginners.com/)
+
+英文How do I learn Python from zero to web development?（各种电子书推荐）[点击打开链接](http://programmers.stackexchange.com/questions/12189/how-do-i-learn-python-from-zero-to-web-development)
