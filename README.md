@@ -226,3 +226,9 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 英文[pythonforbeginners](http://www.pythonforbeginners.com/)
 
 英文How do I learn Python from zero to web development?（各种电子书推荐）[点击打开链接](http://programmers.stackexchange.com/questions/12189/how-do-i-learn-python-from-zero-to-web-development)
+八、爬虫以及模拟登陆新浪微博
+--------------------------------------
+
+[Python模拟登录新浪微薄（使用RSA加密方式和Cookies文件）](http://yoyzhou.github.io/blog/2013/03/18/sina-weibo-login-simulator-in-python/)
+[http://uliweb.clkg.org/tutorial/view_chapter/240](http://uliweb.clkg.org/tutorial/view_chapter/240)
+[一个简单的分布式新浪微博爬虫](http://qinxuye.me/article/a-distributed-weibo-crawler/)
