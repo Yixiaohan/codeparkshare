@@ -235,3 +235,7 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 [Python模拟登录新浪微薄（使用RSA加密方式和Cookies文件）](http://yoyzhou.github.io/blog/2013/03/18/sina-weibo-login-simulator-in-python/)
 [http://uliweb.clkg.org/tutorial/view_chapter/240](http://uliweb.clkg.org/tutorial/view_chapter/240)
 [一个简单的分布式新浪微博爬虫](http://qinxuye.me/article/a-distributed-weibo-crawler/)
+
+九、工具
+-------------------------------------
+Windows系统下，Python相关包(点击打开)[Windows Binaries for Python Extension Packages]
