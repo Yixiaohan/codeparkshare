@@ -229,7 +229,7 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 
 [Python应用与实践](http://www.cnblogs.com/skynet/archive/2013/05/06/3063245.html) Python是什么？谁在用它？相关工具？作者：@吴秦
 
-[Python模块学习](http://blog.csdn.net/JGood/article/category/554799/4)
+[Python模块学习](http://blog.csdn.net/JGood/article/category/554799/4) 相当于翻译官网文档
 
 针对有其他语言经验的人，英文：[Learn X in Y minutes](http://learnxinyminutes.com/docs/python/)
 
@@ -237,9 +237,11 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 --------------------------------------
 
 [Python模拟登录新浪微薄（使用RSA加密方式和Cookies文件）](http://yoyzhou.github.io/blog/2013/03/18/sina-weibo-login-simulator-in-python/)
+
 [http://uliweb.clkg.org/tutorial/view_chapter/240](http://uliweb.clkg.org/tutorial/view_chapter/240)
+
 [一个简单的分布式新浪微博爬虫](http://qinxuye.me/article/a-distributed-weibo-crawler/)
 
 九、工具
 -------------------------------------
-Windows系统下，Python相关包(点击打开)[Windows Binaries for Python Extension Packages]
+Windows系统下，Python相关包[Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
