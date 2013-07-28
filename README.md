@@ -19,7 +19,7 @@ PythonShare
 
    *Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐*  
 ------------------------
-本文 **主要** 针对 **零基础** 想学习Python者。本文本文由@史江歌（shijiangge@gmail.com）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！本文会不断更新。
+本文 **主要** 针对 **零基础** 想学习Python者。本文本文由@史江歌（shijiangge@gmail.com  QQ:499065469）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！本文会不断更新。
 
 一、学会使用搜索引擎，尤其是Google。推荐阅读文章：
 --------------------------
@@ -226,6 +226,9 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 英文[pythonforbeginners](http://www.pythonforbeginners.com/)
 
 英文How do I learn Python from zero to web development?（各种电子书推荐）[点击打开链接](http://programmers.stackexchange.com/questions/12189/how-do-i-learn-python-from-zero-to-web-development)
+
+[Python应用与实践](http://www.cnblogs.com/skynet/archive/2013/05/06/3063245.html) Python是什么？谁在用它？相关工具？作者：@吴秦
+
 八、爬虫以及模拟登陆新浪微博
 --------------------------------------
 
