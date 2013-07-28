@@ -223,11 +223,15 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 
 在线视频教学(英文) [点击打开codecademy](http://www.codecademy.com/zh/tracks/python)
 
-英文[pythonforbeginners](http://www.pythonforbeginners.com/)
+英文PythonForBeginners[pythonforbeginners](http://www.pythonforbeginners.com/)
 
 英文How do I learn Python from zero to web development?（各种电子书推荐）[点击打开链接](http://programmers.stackexchange.com/questions/12189/how-do-i-learn-python-from-zero-to-web-development)
 
 [Python应用与实践](http://www.cnblogs.com/skynet/archive/2013/05/06/3063245.html) Python是什么？谁在用它？相关工具？作者：@吴秦
+
+[Python模块学习](http://blog.csdn.net/JGood/article/category/554799/4)
+
+针对有其他语言经验的人，英文：[Learn X in Y minutes](http://learnxinyminutes.com/docs/python/)
 
 八、爬虫以及模拟登陆新浪微博
 --------------------------------------
