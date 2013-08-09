@@ -231,7 +231,9 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 
 [Python模块学习](http://blog.csdn.net/JGood/article/category/554799/4) 相当于翻译官网文档
 
-针对有其他语言经验的人，英文：[Learn X in Y minutes](http://learnxinyminutes.com/docs/python/)
+针对有其他语言经验的人，英文：[Learn X in Y minutes](http://learnxinyminutes.com/docs/python/) 中文翻译[Y分钟学会Python（译）](http://youngsterxyf.github.io/2013/06/29/learn-python-in-y-minutes/)
+
+【强烈推荐】[Python小白公益文档](http://2.myrestful.sinaapp.com/) 作者：@疯狂制造
 
 八、爬虫以及模拟登陆新浪微博
 --------------------------------------
