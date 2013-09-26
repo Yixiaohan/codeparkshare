@@ -240,6 +240,7 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 [PEP 20 (Python之禅) 的实例](http://artifex.org/~hblanks/talks/2011/pep20_by_example.html)  说明：code_stype
 
 [Unicode之痛](http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue5/unipain.html)
+[stackoverflow上Python相关回答整理翻译](https://github.com/wklken/stackoverflow-py-top-qa)
 
 
 八、爬虫以及模拟登陆新浪微博
