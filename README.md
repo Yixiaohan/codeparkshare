@@ -37,6 +37,9 @@ PythonShare
 
 7. 更多书籍推荐， **V2EX问答**：文科生想学Python [点击打开链接](http://www.v2ex.com/t/40397)
 
+8. [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html) 
+
+
 
 四、视频推荐：
 ------------------------------------------
