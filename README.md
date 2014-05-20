@@ -5,21 +5,21 @@ PythonShare
 ------------------------
 本文 **主要** 针对 **零基础** 想学习Python者。本文本文由@史江歌（shijiangge@gmail.com  QQ:499065469）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！本文会不断更新。
 
-一、学会使用搜索引擎，尤其是Google。推荐阅读文章：
+一、学会使用搜索引擎，尤其是Google。推荐阅读文章
 --------------------------
   [《如何用好Google搜索引擎？》](http://www.zhihu.com/question/20161362) --知乎问答@崔凯  
   
   [《十大高明的Google搜索技巧》](http://www.williamlong.info/archives/728.html)by-雪影蓝风  
   
-  《如何用好Google》by-李笑来    
+  [《如何用好Google》](http://wordpress.lixiaolai.com/archives/992.html) by-李笑来    
   
 
 二、学会提问
 ----------------------------
-推荐阅读《提问的智慧》--by [啄木鸟社区](http://wiki.woodpecker.org.cn/moin/AskForHelp)
+推荐阅读 [《提问的智慧》](http://wiki.woodpecker.org.cn/moin/AskForHelp)--by 啄木鸟社区
 
 
-三、书籍推荐：
+三、书籍推荐
 --------------------------
 0. Python官方文档 [点击打开链接](http://docs.python.org/2/tutorial/index.html) 英语不好的，暂时就先别看了，以后一定肯定要加强英语学习哦;)。
 
@@ -41,7 +41,7 @@ PythonShare
 
 
 
-四、视频推荐：
+四、视频推荐
 ------------------------------------------
 麻省理工公开课《计算机科学及编程导论》，该课程针对零基础者 [点击打开链接](http://v.163.com/special/opencourse/bianchengdaolun.html)  网易公开课。  
 
@@ -210,7 +210,7 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 
 在线视频教学(英文) [点击打开codecademy](http://www.codecademy.com/zh/tracks/python)
 
-英文PythonForBeginners[pythonforbeginners](http://www.pythonforbeginners.com/)
+英文Python For Beginners [pythonforbeginners](http://www.pythonforbeginners.com/)
 
 英文How do I learn Python from zero to web development?（各种电子书推荐）[点击打开链接](http://programmers.stackexchange.com/questions/12189/how-do-i-learn-python-from-zero-to-web-development)
 
@@ -242,6 +242,12 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 [http://uliweb.clkg.org/tutorial/view_chapter/240](http://uliweb.clkg.org/tutorial/view_chapter/240)
 
 [一个简单的分布式新浪微博爬虫](http://qinxuye.me/article/a-distributed-weibo-crawler/)
+
+[用python爬虫抓站的一些技巧总结](http://obmem.info/?p=476)
+
+[http://obmem.info/?p=753](http://obmem.info/?p=753)
+
+[网络爬虫系列](http://blog.csdn.net/pleasecallmewhy/article/details/8922826)
 
 
 九、工具
