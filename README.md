@@ -7,7 +7,7 @@ PythonShare
 
 一、学会使用搜索引擎，尤其是Google。推荐阅读文章
 --------------------------
-  [《如何用好Google搜索引擎？》](http://www.zhihu.com/question/20161362) --知乎问答@崔凯  
+  [《如何用好Google搜索引擎？》](http://www.zhihu.com/question/20161362) 知乎问答@崔凯  
   
   [《十大高明的Google搜索技巧》](http://www.williamlong.info/archives/728.html)by-雪影蓝风  
   
@@ -16,7 +16,7 @@ PythonShare
 
 二、学会提问
 ----------------------------
-推荐阅读 [《提问的智慧》](http://wiki.woodpecker.org.cn/moin/AskForHelp)--by 啄木鸟社区
+推荐阅读 [《提问的智慧》](http://wiki.woodpecker.org.cn/moin/AskForHelp) by-啄木鸟社区
 
 
 三、书籍推荐
@@ -210,7 +210,7 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 
 在线视频教学(英文) [点击打开codecademy](http://www.codecademy.com/zh/tracks/python)
 
-英文Python For Beginners [pythonforbeginners](http://www.pythonforbeginners.com/)
+英文Python for beginners [pythonforbeginners](http://www.pythonforbeginners.com/)
 
 英文How do I learn Python from zero to web development?（各种电子书推荐）[点击打开链接](http://programmers.stackexchange.com/questions/12189/how-do-i-learn-python-from-zero-to-web-development)
 
