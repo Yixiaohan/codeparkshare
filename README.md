@@ -245,7 +245,7 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 
 [用python爬虫抓站的一些技巧总结](http://obmem.info/?p=476)
 
-[http://obmem.info/?p=753](http://obmem.info/?p=753)
+[使用python爬虫抓站的一些技巧总结：进阶篇](http://obmem.info/?p=753)
 
 [网络爬虫系列](http://blog.csdn.net/pleasecallmewhy/article/details/8922826)
 
