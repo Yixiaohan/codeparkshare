@@ -204,13 +204,13 @@ Just do it 。动手敲代码吧。
 
 七、更新
 --------------------------------------
-Python技术博客、招聘、开源软件、Python中文网站导航 [点击打开链接](http://simple-is-better.com/sites/)
+ [Python技术博客、招聘、开源软件、Python中文网站导航](http://simple-is-better.com/sites/)
 
-遇到python问题怎么样解决？python help dir stackoverflow docs google [点击打开链接](http://blog.csdn.net/xiaowanggedege/article/details/8753013)
+ [遇到python问题怎么样解决？python help dir stackoverflow docs google](http://blog.csdn.net/xiaowanggedege/article/details/8753013)
 
-在线视频教学(英文) [点击打开codecademy](http://www.codecademy.com/zh/tracks/python)
+ [在线视频教学(英文)codecademy](http://www.codecademy.com/zh/tracks/python)
 
-英文Python for beginners [pythonforbeginners](http://www.pythonforbeginners.com/)
+ [英文Python for beginners](http://www.pythonforbeginners.com/)
 
 英文How do I learn Python from zero to web development?（各种电子书推荐）[点击打开链接](http://programmers.stackexchange.com/questions/12189/how-do-i-learn-python-from-zero-to-web-development)
 
@@ -226,13 +226,15 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 
 [PEP 20 (Python之禅) 的实例](http://artifex.org/~hblanks/talks/2011/pep20_by_example.html)  说明：code_stype
 
-[Unicode之痛](http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue5/unipain.html)
+[Unicode之痛](http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue5/unipain.html) 必读
 
 [stackoverflow上Python相关回答整理翻译](https://github.com/wklken/stackoverflow-py-top-qa)
 
 [Python语言总结-初级中级高级教程](http://www.crifan.com/files/doc/docbook/python_summary/release/html/python_summary.html) 作者：@Crifan Li
+
 [Python Guide Python 最佳实践](http://docs.python-guide.org/en/latest/?utm_campaign=Manong_Weekly_Issue_10&utm_medium=EDM&utm_source=Manong_Weekly) 英文
 
+[《码农周刊》干货精选（Python 篇）](http://baoz.me/446252) 精选总结
 八、爬虫以及模拟登陆新浪微博
 --------------------------------------
 [知乎：Python 爬虫如何入门学习](http://www.zhihu.com/question/20899988)
@@ -248,7 +250,6 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 [使用python爬虫抓站的一些技巧总结：进阶篇](http://obmem.info/?p=753)
 
 [网络爬虫系列](http://blog.csdn.net/pleasecallmewhy/article/details/8922826)
-
 
 九、工具
 -------------------------------------
