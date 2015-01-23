@@ -228,6 +228,8 @@ Just do it 。动手敲代码吧。
 
 [Unicode之痛](http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue5/unipain.html) 必读
 
+[有关 Python 2 和 Sublime Text 中文 Unicode 编码问题的分析与理解](http://v2ex.com/t/163786#reply12) 必读
+
 [stackoverflow上Python相关回答整理翻译](https://github.com/wklken/stackoverflow-py-top-qa)
 
 [Python语言总结-初级中级高级教程](http://www.crifan.com/files/doc/docbook/python_summary/release/html/python_summary.html) 作者：@Crifan Li
