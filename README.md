@@ -220,8 +220,6 @@ Just do it 。动手敲代码吧。
 
 针对有其他语言经验的人，英文：[Learn X in Y minutes](http://learnxinyminutes.com/docs/python/) 中文翻译[Y分钟学会Python（译）](http://youngsterxyf.github.io/2013/06/29/learn-python-in-y-minutes/)
 
-【强烈推荐】[Python小白公益文档](http://2.myrestful.sinaapp.com/) 作者：@疯狂制造
-
 [PyCoder’s Weekly 中文翻译](http://pycoders-weekly-chinese.readthedocs.org/en/latest/index.html) 说明：文章质量很高
 
 [PEP 20 (Python之禅) 的实例](http://artifex.org/~hblanks/talks/2011/pep20_by_example.html)  说明：code_stype
