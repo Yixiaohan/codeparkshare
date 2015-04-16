@@ -23,19 +23,22 @@ PythonShare
 --------------------------
 0. Python官方文档 [点击打开链接](http://docs.python.org/2/tutorial/index.html) 英语不好的，暂时就先别看了，以后一定肯定要加强英语学习哦;)。
 
-1. 对于零基础者，推荐《How to think like a computer scientist》[点击打开链接](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf)，对应中文版本《Python学习笔记--皮大庆》，非常适合零基础入门。
+1. 对于零基础者，推荐[《How to think like a computer scientist》](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf)，对应中文版本《Python学习笔记--皮大庆》，非常适合零基础入门。
 
-2. 对于零基础者，推荐《Python编程实践》 [点击打开链接] (http://book.douban.com/subject/7059900/)
+2. 对于零基础者，推荐 [《Python编程实践》] (http://book.douban.com/subject/7059900/)
 
-3. 对于零基础者，推荐《简明Python教程》 [点击打开链接](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
+3. 对于零基础者，推荐 [《简明Python教程》](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 
-4. 对于零基础者，推荐《笨办法学 Python （Learn Python The Hard Way）》[点击打开链接](http://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
+4. 对于零基础者，推荐[《笨办法学 Python （Learn Python The Hard Way）》](http://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
 
-5. 对于有其他编程语言基础者，推荐《Python基础教程》[点击打开链接](http://book.douban.com/subject/4866934/)
+5. 对于有其他编程语言基础者，推荐[《Python基础教程》](http://book.douban.com/subject/4866934/)
 
-6. 更多书籍推荐， **知乎问答**：关于 Python 的经典入门书籍有哪些？[点击打开链接](http://www.zhihu.com/question/19593179)
+6. 对于有其他编程语言基础者，推荐[Python入门教程-By廖雪峰](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 
-7. 更多书籍推荐， **V2EX问答**：文科生想学Python [点击打开链接](http://www.v2ex.com/t/40397)
+
+6. 更多书籍推荐， **知乎问答**：[关于 Python 的经典入门书籍有哪些？](http://www.zhihu.com/question/19593179)
+
+7. 更多书籍推荐， **V2EX问答**： [文科生想学Python](http://www.v2ex.com/t/40397)
 
 8. [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html) 
 
@@ -43,7 +46,7 @@ PythonShare
 
 四、视频推荐
 ------------------------------------------
-麻省理工公开课《计算机科学及编程导论》，该课程针对零基础者 [点击打开链接](http://v.163.com/special/opencourse/bianchengdaolun.html)  网易公开课。  
+麻省理工公开课《计算机科学及编程导论》，该课程针对零基础者 [网易公开课](http://v.163.com/special/opencourse/bianchengdaolun.html) 。  
 
 课程介绍
 这门课程适用于那些拥有 **很少或没有编程经验**  的学生,它致力于使学生理解计算机在解决问题中的作用,并且帮助学生，  **不论其专业**，使他们对于能够完成有用的小程序的目标充满信心。
@@ -51,7 +54,7 @@ PythonShare
 
 五、学习方法
 ---------------------------------------
-### *知乎问答*：零基础，应当如何开始学习 Python ？[点击打开链接](http://www.zhihu.com/question/20039623?nr=1)--by@黎敏
+### *知乎问答*：[零基础，应当如何开始学习 Python ？](http://www.zhihu.com/question/20039623?nr=1)--by@黎敏
 
 虽然我不是Python高手，但我是零基础，之前会的都是软件PS，PPT之类。
 
