@@ -252,6 +252,8 @@ Just do it 。动手敲代码吧。
 --------------------------------------
 [知乎：Python 爬虫如何入门学习](http://www.zhihu.com/question/20899988)
 
+[Python爬虫学习系列教程 @崔庆才](http://cuiqingcai.com/1052.html)系列教程，入门、实战、爬虫利器介绍、进阶
+
 [Python模拟登录新浪微薄（使用RSA加密方式和Cookies文件）](http://yoyzhou.github.io/blog/2013/03/18/sina-weibo-login-simulator-in-python/)
 
 [http://uliweb.clkg.org/tutorial/view_chapter/240](http://uliweb.clkg.org/tutorial/view_chapter/240)
