@@ -43,6 +43,7 @@ PythonShare
 
 0. 推荐[Requests 源码阅读](https://github.com/wangshunping/read_requests)
 
+1. [《Python进阶》（Intermediate Python 中文版）](https://github.com/eastlakeside/interpy-zh)
 
 ### 更多书籍推荐 
 
