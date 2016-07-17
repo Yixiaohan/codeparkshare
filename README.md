@@ -18,6 +18,7 @@ PythonShare
 ----------------------------
 推荐阅读 [《提问的智慧》](http://wiki.woodpecker.org.cn/moin/AskForHelp) by-啄木鸟社区
 
+[《提问的智慧》](https://gist.github.com/zer4tul/95ffaa741c836dc6ab3b) 务必请读完！
 
 三、书籍推荐
 --------------------------
@@ -270,3 +271,5 @@ Just do it 。动手敲代码吧。
 九、工具
 -------------------------------------
 Windows系统下，Python相关包[Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
+
