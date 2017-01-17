@@ -46,6 +46,8 @@ PythonShare
 
 1. [《Python进阶》（Intermediate Python 中文版）](https://github.com/eastlakeside/interpy-zh)
 
+2. [《Python Cookbook(第三版)》](https://github.com/yidao620c/python3-cookbook)
+
 ### 更多书籍推荐 
 
 0.  **知乎问答**：[关于 Python 的经典入门书籍有哪些？](http://www.zhihu.com/question/19593179)
