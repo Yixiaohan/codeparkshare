@@ -247,7 +247,9 @@ Just do it 。动手敲代码吧。
 
 [Python语言总结-初级中级高级教程](http://www.crifan.com/files/doc/docbook/python_summary/release/html/python_summary.html) 作者：@Crifan Li
 
-[Python Guide Python 最佳实践](http://docs.python-guide.org/en/latest/?utm_campaign=Manong_Weekly_Issue_10&utm_medium=EDM&utm_source=Manong_Weekly) 英文
+[Python Guide Python 最佳实践（英文）](http://docs.python-guide.org/en/latest/?utm_campaign=Manong_Weekly_Issue_10&utm_medium=EDM&utm_source=Manong_Weekly) 
+
+[Python 最佳实践指南（中文）](https://github.com/Prodesire/Python-Guide-CN) 关于Python安装、配置、和日常使用的最佳实践手册。
 
 [《码农周刊》干货精选（Python 篇）](http://baoz.me/446252) 精选总结
 八、爬虫以及模拟登陆新浪微博
