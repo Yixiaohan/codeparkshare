@@ -252,6 +252,9 @@ Just do it 。动手敲代码吧。
 [Python 最佳实践指南（中文）](https://github.com/Prodesire/Python-Guide-CN) 关于Python安装、配置、和日常使用的最佳实践手册。
 
 [《码农周刊》干货精选（Python 篇）](http://baoz.me/446252) 精选总结
+
+[Python 3 Module of the Week](https://pymotw.com/3/) Python 标准库的使用
+
 八、爬虫以及模拟登陆新浪微博
 --------------------------------------
 [知乎：Python 爬虫如何入门学习](http://www.zhihu.com/question/20899988)
