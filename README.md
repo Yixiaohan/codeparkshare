@@ -255,6 +255,8 @@ Just do it 。动手敲代码吧。
 
 [Python 3 Module of the Week](https://pymotw.com/3/) Python 标准库的使用
 
+[Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days) 100天从新手到大师
+
 八、爬虫以及模拟登陆新浪微博
 --------------------------------------
 [知乎：Python 爬虫如何入门学习](http://www.zhihu.com/question/20899988)
