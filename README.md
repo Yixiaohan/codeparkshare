@@ -259,6 +259,8 @@ Just do it 。动手敲代码吧。
 
 [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days) 100天从新手到大师
 
+[Python 和 Diango 学习资料，书籍，文章，以及实战项目](https://github.com/zaxlct/python-django-learning)
+
 八、爬虫以及模拟登陆新浪微博
 --------------------------------------
 [知乎：Python 爬虫如何入门学习](http://www.zhihu.com/question/20899988)
