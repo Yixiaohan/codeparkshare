@@ -40,6 +40,8 @@ PythonShare
 
 1. 推荐[Python入门教程-By廖雪峰](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 
+2. [Tutorial - Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
+
 ### 进阶
 
 0. 推荐[Requests 源码阅读](https://github.com/wangshunping/read_requests)
