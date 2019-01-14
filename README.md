@@ -263,6 +263,10 @@ Just do it 。动手敲代码吧。
 
 [Python 和 Diango 学习资料，书籍，文章，以及实战项目](https://github.com/zaxlct/python-django-learning)
 
+[What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
+
+[https://github.com/leisurelicht/wtfpython-cn](wtfpython的中文翻译)
+
 八、爬虫以及模拟登陆新浪微博
 --------------------------------------
 [知乎：Python 爬虫如何入门学习](http://www.zhihu.com/question/20899988)
